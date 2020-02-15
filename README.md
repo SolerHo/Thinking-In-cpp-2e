@@ -1,5 +1,5 @@
-# Thinking In C++ Volume1 and Volume2 
-# 中文名：C++编程思想 卷1 和 卷2 
+# Thinking In C++ Volume1 and Volume2  第2版
+# 中文名：C++编程思想 卷1 和 卷2  第 2 版
 
 ## 第一卷 标准C++导引
 |章（Chapter）|标题（Title）|笔记（Notes）|练习题（Practice）|面试题（Interviews）本人添加总结|
