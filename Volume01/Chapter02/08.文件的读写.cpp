@@ -33,8 +33,8 @@ using namespace std;
 /* 将一个文件的内容拷贝到另一个文件的简单例子
 int main()
 {
-    ifstream in("Scopy.cpp");
-    ofstream out("Scopy01.cpp");
+    ifstream in("test.tx");
+    ofstream out("test01.txt");
     string a;
     while (getline(in,a))
     {
@@ -56,7 +56,7 @@ int main()
 // 将整个文件拷贝成单独的一个string对象
 int main()
 {
-    ifstream in("Scopy.txt");
+    ifstream in("test.txt");
     string s,line;
     while (getline(in,line))
     {
