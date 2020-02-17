@@ -27,7 +27,7 @@ using namespace std;
 int main()
 {
     vector<string> v;
-    ifstream in("FileVector.cpp");
+    ifstream in("test.txt");
     string line;
     while (getline(in,line))
     {
@@ -37,7 +37,7 @@ int main()
          * pull_back()向vector内添加新元素，取回元素的方式：操作符重载
          */ 
         v.push_back(line);  
-
+    }
         /**
          * for循环的组成：
          * 
@@ -46,6 +46,5 @@ int main()
          */
         for(int i = 0;i <v.size(); i++) // 添加一行数字
             cout<<i<<":"<<v[i]<<endl;
-    }
     
 }
