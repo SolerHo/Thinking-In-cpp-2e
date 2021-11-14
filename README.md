@@ -6,7 +6,10 @@
 - make version : 4.2.1
 - gcc version : 8.4.1
 
-## 中文名：C++编程思想 卷1 和 卷2  第 2 版
+## 书籍资源
+中文名：C++编程思想 卷1 和 卷2  第 2 版
+- 英文版Vol1 ： https://www.micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-one-printed.pdf
+- 英文版vol2 ： https://www.micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-two-printed.pdf
 ## 第一卷 标准C++导引
 |章（Chapter）|标题（Title）|笔记（Notes）|练习题（Practice）|面试题（Interviews）本人添加总结|
 |:--:|:--:|:--:|:--:|:--:|
